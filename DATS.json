@@ -397,10 +397,10 @@
   "isAbout": [
     {
       "identifier": {
-        "identifier": "10088",
-        "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10088"
+        "identifier": "10090",
+        "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10090"
       },
-      "name":"Mus"
+      "name":"Mus musculus"
     }
   ],
   "keywords": [
